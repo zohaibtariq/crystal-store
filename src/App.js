@@ -48,7 +48,7 @@ const App = () => {
             <InnerRoutes/>
             <footer className="footer fixed-bottom bg-white d-flex justify-content-center align-items-center custom">
                 <div className="container">
-                    <p className="float-end m-0 p-3"><a href="#BackToTop">Back to top</a></p>
+                    <p className="float-end m-0 p-3"><a href="#">Back to top</a></p>
                     <p className={`m-0 p-3`}>&copy; 2023–2024 Company, Inc. &middot; <a href="#Privacy">Privacy</a> &middot; <a href="#Terms">Terms</a></p>
                 </div>
             </footer>
